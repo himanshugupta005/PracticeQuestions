@@ -1,0 +1,18 @@
+s1={2,4,6,8,10,12,14,16,18,20}
+s2={1,3,5,7,9,11,13,15,17,19}
+s1.union(s2)
+s2.union(s1)
+print(s1)
+print(s2)
+# s1.intersection(s2)
+# s2.intersection(s1)
+# print(s1)
+# print(s2)
+# # s1.differnce(s2)
+# # s2.differnce(s1)
+# # print(s1)
+# # print(s2)
+# s1.symmetric_differnce(s2)
+# s2.symmetric_differnce(s1)
+# print(s1)
+# print(s2)
